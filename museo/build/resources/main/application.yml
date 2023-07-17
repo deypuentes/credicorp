@@ -1,0 +1,16 @@
+
+server:
+  port: 8085
+Spring:
+  application:
+    name: museo
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/credicorp
+    driverClassName: com.mysql.jdbc.Driver
+    username: root
+    password: Sons!2017
+
+
+
+
